@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package con",
+		"selected_items":
+		[
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"select co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 929.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/matth/Documents/GitHub/ACU-Paintball/Assets",
+		"/C/Users/matth/Documents/GitHub/ACU-Paintball/Assets/ParticleSplatter",
+		"/C/Users/matth/Documents/GitHub/ACU-Paintball/Assets/ParticleSplatter/Materials",
+		"/C/Users/matth/Documents/GitHub/ACU-Paintball/Assets/ParticleSplatter/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/matth/Documents/GitHub/ACU-Paintball/Assets/ParticleSplatter/Scripts/SplatOnCollision.cs",
+		"/C/Users/matth/Documents/GitHub/ACU-Paintball/sublime_project.sublime-project",
+		"/G/My Drive/Programming I/vampireNumbers_v5.cpp",
+		"/C/Users/matth/Documents/GitHub/DET-350-Virtual-Campus/.git/refs/heads/campus-center",
+		"/C/Users/matth/Downloads/unyl_tic.tic",
+		"/C/Users/matth/Downloads/Hexagon_Tiles_Tutorial/hexagon_tiles_tutorial.sbs",
+		"/C/Users/matth/Downloads/DET-350-Virtual-Campus-master/ACU_Campus_VR/Assets/_Object/Bible Building Final Exporting.fbx.meta",
+		"/C/Users/matth/Documents/GitHub/DET-350-Virtual-Campus/ACU_Campus_VR/Assets/_Object/Materials/BibleBuilding/Concrete Arch.mat",
+		"/C/Program Files/Tablet/Wacom/App Specific Settings/ZBrush.wacomas",
+		"/C/Users/matth/Documents/tic/TIC-80/Makefile",
+		"/C/Program Files/Tablet/Wacom/App Specific Settings/ZBrushCore.wacomas",
+		"/G/My Drive/Programming I/review.cpp",
+		"/G/My Drive/3D Modeling/MBB Atrium/COBAAtrium.fbx",
+		"/C/Program Files (x86)/Steam/steamapps/common/SteamVR/tools/steamvr_environments/game/bin/win64/steamtours.exe",
+		"/G/My Drive/yahtzee.lua",
+		"/C/Users/matth/AppData/Roaming/com.nesbox.tic/TIC-80/yahtzee.tic",
+		"/C/Users/matth/Downloads/P1doneP2/p1dp2_generate.py",
+		"/C/Users/matth/AppData/Roaming/liko12/drives/C/Programs/load.lua",
+		"/C/Users/matth/AppData/Roaming/liko12/drives/C/Games/pong.lk12",
+		"/G/My Drive/Archive/Computer Backup/High School/2nd Period March Projects/Matthew Middlebrook BlackJack/Deck.java",
+		"/G/My Drive/Archive/Computer Backup/High School/2nd Period March Projects/Matthew Middlebrook BlackJack/BlackJack.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Space Processing/Asteroid.pde",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Labs/Unit 24 - Sorts _ Searches/Slides _ Examples/CollectionsFun.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Labs/Unit 22 - Matrices/Labs/Forest.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Eclipse/GraphicsProject/src/Game.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Eclipse/GraphicsProject/src/Dice.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Eclipse/GraphicsProject/src/Player.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Eclipse/GraphicsProject/src/Computer.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/Eclipse/GraphicsProject/src/GraphicsProject.java",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/AsteroidTest/AsteroidTest.pde",
+		"/G/My Drive/Archive/Computer Backup/High School/AP Computer Science/AsteroidTest/sketch.properties",
+		"/G/My Drive/Archive/Computer Backup/Documents/New UNO/src/Card.java",
+		"/G/My Drive/Archive/Computer Backup/Documents/New UNO/src/GameGraphics.java",
+		"/C/Users/matth/Documents/heart.obj",
+		"/G/My Drive/Archive/Minesweeper Bot/minesweeper_bot.py",
+		"/C/Users/matth/Downloads/unlocker-master(1)/win-install.cmd",
+		"/C/Users/matth/Downloads/unlocker-master(1)/readme.txt",
+		"/G/My Drive/Programming I/reverseDigits.cpp",
+		"/G/My Drive/Programming I/reverseAndAdd_v2.cpp",
+		"/G/My Drive/Programming I/groupWithEqualSum.cpp",
+		"/C/Users/matth/Documents/heart_biology_v2.sc1",
+		"/G/My Drive/Biology/PP/FAP74B6.tmp",
+		"/G/My Drive/DET/Seizure Banner/Seizure Banner New.swf",
+		"/C/Users/matth/Downloads/SKIP BO Castaway Caper/SKIP-BO Castaway Caper.exe",
+		"/G/My Drive/Biology/PP/~$posted--Exam 3 Review Filled.pptx",
+		"/G/My Drive/Scripting II/weather problem/Athene Problem.html",
+		"/G/My Drive/Scripting II/weather problem/houston.csv",
+		"/G/My Drive/Scripting II/weather problem/dallas.csv",
+		"/G/My Drive/Scripting II/weather problem/abilene.csv",
+		"/G/My Drive/Scripting II/weather problem/death_valley.csv",
+		"/G/My Drive/Scripting II/weather problem/new_york.csv",
+		"/G/My Drive/Archive/Computer Backup/High School/Other/Other AP ComSci/Unit 19 - Interfaces/Labs/5.interfaces_SortByVowels_lab_java_aplus/Word.java",
+		"/G/My Drive/Scripting II/weather problem/1129038.csv",
+		"/G/My Drive/Scripting II/weather problem/1129048.csv",
+		"/G/My Drive/Scripting II/weather problem/1124432.csv",
+		"/G/My Drive/Scripting II/weather problem/abilene_large.csv",
+		"/C/Users/matth/VirtualBox VMs/macOS High Sierra/macOS High Sierra.vbox",
+		"/C/Users/matth/VirtualBox VMs/macOS High Sierra/macOS High Sierra.vbox-prev",
+		"/C/Users/matth/Downloads/class_signup.ahk",
+		"/G/My Drive/College Schedule New (1).xlsx.gsheet",
+		"/G/My Drive/Programming I/round.cpp",
+		"/C/Users/matth/Desktop/out.txt",
+		"/G/My Drive/Scripting II/dictionaries/scoring_key.py",
+		"/G/My Drive/Programming I/mastermind.cpp",
+		"/C/Users/matth/Documents/lightwalk-sim/whattorun.txt",
+		"/C/Users/matth/Documents/lightwalk-sim/lightwalk-sim.cpp",
+		"/C/Users/matth/Documents/lightwalk-sim/go",
+		"/C/Users/matth/AppData/Local/Atlassian/SourceTree.exe_Url_bwvd3ippublaxdhajak4v51bires5wir/2.3.1.0/user.config",
+		"/C/Amazon/Lumberyard/1.11.0.0/dev/BinTemp/lmbr_create.log",
+		"/G/My Drive/Maya Projects/Reunion Tower Final_fixed.stl",
+		"/C/Program Files/SpeedTree/SpeedTree for Lumberyard v8.0.0/standard_shaders/math.h",
+		"/G/My Drive/Maya Projects/Reunion Tower Final.stl",
+		"/G/My Drive/Maya Projects/Reunion Tower.stl",
+		"/C/Users/matth/Downloads/FreddiFish3/FREDDI3.cue",
+		"/C/Users/matth/Documents/Virtual Machines/macOS 10.12/macOS 10.12.vmx",
+		"/C/Users/matth/AppData/Local/Astro/Saved/Logs/UE4CC-Windows-C23C9A2C4E750FBA4A80D09B4398147F_0000/CrashContext.runtime-xml",
+		"/C/Program Files/Google/Drive File Stream/25.1.53.29/html/onboarding.webm",
+		"/C/Program Files/Google/Drive File Stream/25.1.53.29/config/roots.pem",
+		"/C/Users/matth/Downloads/FreddiFish3/FREDDI3/FREDDI3.HE0",
+		"/C/Users/matth/Downloads/FreddiFish3/FreddiFish3_files.xml",
+		"/G/My Drive/Games/Steam/steamapps/common/ASTRONEER Early Access/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/ApexFramework_x64.dll",
+		"/C/Users/matth/Google Drive/Programming I/add.cpp",
+		"/C/Users/matth/AppData/Roaming/Sublime Text 3/Packages/User/c++.sublime-build"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-",
+			"\"",
+			"version"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime_project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
